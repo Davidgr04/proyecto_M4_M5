@@ -1,0 +1,33 @@
+html {
+    flex-direction: auto;
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    flex-direction: auto;
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    flex-direction: auto;
+    margin-bottom: 60px;
+    background: url(https://img.freepik.com/vector-gratis/fondo-naturaleza-acuarela-pintada-mano_23-2148941599.jpg?w=2000) center center / cover no-repeat;
+}
+
+img {
+    flex-direction: column;
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    position: relative;
+    width: 650px;
+    border: 7px solid #59ff00;
+    border-radius: 50px;
+}

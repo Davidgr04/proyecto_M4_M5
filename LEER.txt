@@ -1,0 +1,3 @@
+Después de muchos intentos e tenido que pedir amis compañeros que me dejen 2 APIs que 100% tengan imagen, ya que no se si te acuerdas e tenido problema para poder mostrar la imagen de las APIs de RICKY MORTY y de los SIMPSIONS.
+Pero bueno lo bueno es que ya me va la consexion a las imagenes.
+Mi pagina web simplemente lo que hace es buscar una imagen random de las dos APIs seleccionadas.
